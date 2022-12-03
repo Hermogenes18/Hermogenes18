@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hermogenes</h1>
 <h3 align="center">Soy estudiante de Ciencia de la Computación, entusiasta de la tecnología y programación.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hermogenes18&label=Profile%20views&color=0e75b6&style=flat" alt="hermogenes18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hermogenes18&label=Profile%20views&color=0e75b6&style=flat" alt="Hermogenes18" /> </p>
 
 - 📫 How to reach me **hermogenes1175@gmail.com**
 
