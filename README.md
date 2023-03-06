@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hermogenes18/Hermogenes18/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hermogenes18/Hermogenes18/output/snake.svg" alt="Snake animation" />
 
 ###
